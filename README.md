@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Param Patel</h1>
 <h3 align="center">A ambitious programmer from Texas</h3>
 
-- 🔭 I’m currently working on **Reverbed**
+- 🔭 I’m currently working on **Daily Darshan App**
 
 - 🌱 I’m currently learning **Web Development and Machine Learning**
 
-- 🤝 I’m looking for help with **React**
+- 🤝 I’m looking for help with **PyTorch**
 
-- 💬 Ask me about **python, html, css, js**
+- 💬 Ask me about **python, html, css, js, anything else**
 
 - 📫 How to reach me **parampatel0767@gmail.com**
 
