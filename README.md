@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Param Patel</h1>
 <h3 align="center">A ambitious programmer from Texas</h3>
 
-- 🔭 I’m currently working on **Daily Darshan App**
+- 🔭 I’m currently working on **Reverbed**
 
 - 🌱 I’m currently learning **Web Development and Machine Learning**
 
